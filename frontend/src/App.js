@@ -1,8 +1,20 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React from "react";
+import Header from "./components/Header.jsx";
+import Footer from "./components/Footer.jsx";
+import { Container } from "react-bootstrap";
 
-function App() {
-  return <div className="App"></div>;
-}
+const App = () => {
+  return (
+    <>
+      <Header />
+      <main className="py-3">
+        <Container>
+          <h1>Welcome to Roadsters</h1>
+        </Container>
+      </main>
+      <Footer />
+    </>
+  );
+};
 
 export default App;
