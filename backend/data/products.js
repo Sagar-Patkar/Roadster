@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: "1",
     name: "Hercules Deadpool HT DX2 27.5T Neon Orange Matt with White Graphics",
     image: "/images/Hercules-Deadpool.jpg",
     description: "Frame: 17, Fork: Suspension, Tires: 2.1",
@@ -12,7 +11,6 @@ const products = [
     numReviews: 4,
   },
   {
-    _id: "2",
     name: "Montra Madrock 29 Neon Yellow",
     image: "/images/Montra.jpg",
     description:
@@ -25,7 +23,6 @@ const products = [
     numReviews: 6,
   },
   {
-    _id: "3",
     name: "BSA Ladybird Glitzy 26T Watermelon Red",
     image: "/images/Ladybird.jpg",
     description: "Frame: 17T, Fork: Rigid, Tires: 3/8T",
@@ -37,7 +34,6 @@ const products = [
     numReviews: 5,
   },
   {
-    _id: "4",
     name: "BSA Speedex 20T Neon Red",
     image: "/images/BSA-NeonRed.jpg",
     description: "Frame: 12T, Fork: Rigid, Tires: 2.125 TT/EVA",
@@ -49,7 +45,6 @@ const products = [
     numReviews: 2,
   },
   {
-    _id: "5",
     name: "ANALOG 27.5T 21SPD DD",
     image: "/images/Analoh.jpg",
     description:
@@ -62,7 +57,6 @@ const products = [
     numReviews: 3,
   },
   {
-    _id: "6",
     name: "CITY RIDER 26T, VB",
     image: "/images/City.jpg",
     description: "Frame: Rigid, Fork: Rigid, Tires: 26T",
@@ -74,7 +68,6 @@ const products = [
     numReviews: 4,
   },
   {
-    _id: "7",
     name: "HERO LECTRO C3",
     image: "/images/Lectro.jpg",
     description:
@@ -87,7 +80,6 @@ const products = [
     numReviews: 7,
   },
   {
-    _id: "8",
     name: "Firestorm 29 D",
     image: "/images/Firestorm.jpg",
     description:
